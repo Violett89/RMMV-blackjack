@@ -14,7 +14,7 @@ Suit names, face card names, card images and player face images are customizable
   1. Create card images with names following the pattern `_value_of_suit_.png` such as 1_of_hearts.png and queen_of_spades.png
   2. Create 2 sets of four faces as shown in `CardPlayerFaces.png` for the player and dealer
 
-  ## Using the plugin
+## Using the plugin
 
 ### Settings
 
