@@ -1,14 +1,12 @@
 //============================================================================
 // Grizzo's Simple Blackjack Script
 // GRZ_blackjack.js
-// Version 0.1
-// Free for any use
 //============================================================================
 //============================================================================
 /*:
- * @plugindesc v0.4 Adds a basic Blackjack screen
+ * @plugindesc v0.5 Adds a basic Blackjack screen
  * @author Grizzo
- * @version 0.1
+ * @version 0.5
  *
  *
  * @param ---Suits---
