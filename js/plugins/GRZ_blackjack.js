@@ -91,9 +91,9 @@
   faces[1] = String(parameters['Jack Name'] || "Jack");
   faces[2] = String(parameters['Queen Name'] || "Queen");
   faces[3] = String(parameters['King Name'] || "King");
-  betVal[0] = 100;
-  betVal[1] = 500;
-  betVal[2] = 1500;
+  betVal[0] = 10;
+  betVal[1] = 20;
+  betVal[2] = 50;
   var enable_images = parameters['Enable Images'] || true;
   var graphic_name = 'CardPlayerFaces'
   var player_score, dealer_score = 0;
